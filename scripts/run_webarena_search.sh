@@ -2,8 +2,8 @@
 
 export DATASET=webarena
 
-model="gpt-4o"
-max_depth=4  # max_depth=4 means 5 step lookahead
+model="gpt-4o-mini"
+max_depth=4 
 max_steps=5
 branching_factor=5
 vf_budget=20
